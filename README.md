@@ -62,7 +62,7 @@ RAZIN Mohamed  https://github.com/Rzn-Mohamed
 JABRI Anas https://github.com/Anasjrr
 
 # License
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Cloning Notice
 If you clone this project, please make sure to credit this repository and its contributors by linking back to My GitHub Profile. Thank you!
